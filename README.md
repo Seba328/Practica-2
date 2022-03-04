@@ -10,5 +10,4 @@ Las dependencias utilizadas se encuentran en "requirements.txt."
 
 *Se requiere la instalación de la room Ms-Pacman-v4.
 
-*Según la semilla de random puede dar lugar a que se estanque en una mala acción
 
